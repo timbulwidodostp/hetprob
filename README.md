@@ -1,6 +1,8 @@
 # hetprob
 Estimate heteroskedastic binary model Use hetprob (Rchoice) With (In) R Software
 
+https://www.youtube.com/watch?v=Ges3F-au1Xg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
